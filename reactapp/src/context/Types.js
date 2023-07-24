@@ -1,0 +1,1 @@
+export const SET_STATE_VALUE = "SET_STATE_VALUE";
