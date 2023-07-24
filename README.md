@@ -20,8 +20,8 @@ It's compromised of three projects
 3 layers
 
 1. presentation - controllers and view models
-2. application - business logic
-3. data - data and data access
+2. application - business logic - Command Query Responsibility Segregation pattern
+3. data - data and data access - Repository pattern
 
 Run Tests by right-clicking on the webapi.tests project and selecting "Run Tests"
 
